@@ -35,6 +35,12 @@ const GALLERY_IMAGES = [
     label: "Clinic Interior",
     span: "col-span-1 row-span-1",
   },
+  {
+    src: "/gallery-xray.png",
+    alt: "Digital X-Ray machine and imaging equipment",
+    label: "Digital X-Ray Unit",
+    span: "col-span-1 row-span-1",
+  },
 ];
 
 function GalleryCard({

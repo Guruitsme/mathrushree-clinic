@@ -56,10 +56,13 @@ function ServiceCard({ service, index }: { service: Service; index: number }) {
         <p className="text-sm text-slate-500 leading-relaxed mb-5">{service.description}</p>
 
         {/* Learn more link */}
-        <div className="flex items-center gap-2 text-sm font-semibold text-teal-600 group-hover:text-teal-500 transition-colors">
+        <a
+          href="#doctors"
+          className="inline-flex items-center gap-2 text-sm font-semibold text-teal-600 hover:text-teal-500 transition-colors cursor-pointer"
+        >
           Learn more
           <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
-        </div>
+        </a>
       </div>
     </div>
   );

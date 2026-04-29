@@ -17,27 +17,27 @@ const outfit = Outfit({
 export const metadata: Metadata = {
   metadataBase: new URL("https://mathrushreeclinic.in"),
   title: {
-    default: "Mathrushree Speciality Clinic & Diagnostics | Best Orthopedic & Pediatric Care in Mysuru",
+    default: "Mathrushree Speciality Clinic & Diagnostics | Best Orthopedic & Pediatric Care in Nanjangud",
     template: "%s | Mathrushree Speciality Clinic",
   },
   description:
-    "Trusted Orthopedic & Pediatric specialists in Mysuru. Dr. Gopi H.T. (MBBS, MS, DNB, FIJR — Joint Replacement) & Dr. Manasa C. (MBBS, MD — Pediatric Neurology). Digital X-Ray, Lab Tests, Physiotherapy & more. Call 9353030665.",
+    "Trusted Orthopedic & Pediatric specialists in Nanjangud. Dr. Gopi H.T. (MBBS, MS, DNB, FIJR — Joint Replacement) & Dr. Manasa C. (MBBS, MD — Pediatric Neurology). Digital X-Ray, Lab Tests, Physiotherapy & more. Call 9353030665.",
   keywords: [
-    "Mathrushree Clinic Mysuru",
-    "best orthopedic doctor Mysore",
+    "Mathrushree Clinic Nanjangud",
+    "best orthopedic doctor Nanjangud",
     "pediatrician near me Karnataka",
-    "joint replacement surgeon Mysuru",
-    "bone specialist Mysore",
-    "children doctor Mysuru",
-    "digital x-ray Mysore",
-    "PRP treatment knee Mysuru",
-    "physiotherapy clinic Mysore",
+    "joint replacement surgeon Nanjangud",
+    "bone specialist Nanjangud",
+    "children doctor Nanjangud",
+    "digital x-ray Nanjangud",
+    "PRP treatment knee Nanjangud",
+    "physiotherapy clinic Nanjangud",
     "Dr Gopi HT orthopedic",
     "Dr Manasa C pediatrics",
-    "ಮಾತೃಶ್ರೀ ಕ್ಲಿನಿಕ್ ಮೈಸೂರು",
+    "ಮಾತೃಶ್ರೀ ಕ್ಲಿನಿಕ್ ನಂಜನಗೂಡು",
   ],
   openGraph: {
-    title: "Mathrushree Speciality Clinic & Diagnostics — Mysuru",
+    title: "Mathrushree Speciality Clinic & Diagnostics — Nanjangud",
     description:
       "Expert Orthopedics, Joint Replacement, Pediatrics & Advanced Diagnostics. Trusted by 10,000+ patients.",
     type: "website",
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Mathrushree Speciality Clinic & Diagnostics",
-    description: "Expert Orthopedics & Pediatrics in Mysuru, Karnataka.",
+    description: "Expert Orthopedics & Pediatrics in Nanjangud, Karnataka.",
   },
   robots: {
     index: true,

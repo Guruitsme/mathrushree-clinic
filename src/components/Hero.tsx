@@ -93,7 +93,7 @@ export function Hero() {
           {/* Sub-headline */}
           <p className="text-lg sm:text-xl text-slate-300/80 mb-8 leading-relaxed max-w-xl">
             Advanced <strong className="text-teal-300">Orthopedics</strong>, compassionate{" "}
-            <strong className="text-emerald-300">Pediatrics</strong>, and trusted General Medicine — all under one roof in Mysuru.
+            <strong className="text-emerald-300">Pediatrics</strong>, and trusted General Medicine — all under one roof in Nanjangud.
           </p>
 
           {/* Trust badges */}

@@ -90,7 +90,7 @@ export const CONTACT_INFO: ContactInfo = {
     { days: "Mon – Sat", time: "9:00 AM – 9:00 PM" },
     { days: "Sunday", time: "Emergency Only" },
   ],
-  address: "Mathrushree Speciality Clinic & Diagnostics, Mysuru, Karnataka, India",
+  address: "Mathrushree speciality clinic and diagnostics, Devirammana halli( Vishwaguru, Vidhya Nagara Extension, basaweshwara ) circle, Nanjangud, Karnataka 571301, India",
   emergencyNumber: "9353030665",
   mapEmbedUrl:
     "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d973.5!2d76.672998!3d12.1068121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baf437197fe3ac7%3A0x2ba07ac668c1d74f!2sMathrushree%20speciality%20clinic%20and%20diagnostics!5e0!3m2!1sen!2sin",

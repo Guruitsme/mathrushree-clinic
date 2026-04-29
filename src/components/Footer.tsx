@@ -22,7 +22,7 @@ export function Footer() {
               </div>
             </div>
             <p className="text-sm text-slate-500 leading-relaxed">
-              Trusted healthcare partner for Orthopedics, Pediatrics, and Diagnostics in Mysuru, Karnataka.
+              Trusted healthcare partner for Orthopedics, Pediatrics, and Diagnostics in Nanjangud, Karnataka.
             </p>
           </div>
 

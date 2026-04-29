@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useRef } from "react";
+import Image from "next/image";
 import { Phone, ArrowRight, Star, CheckCircle2 } from "lucide-react";
 import { CLINIC_NAME_KANNADA, PHONE_PRIMARY } from "@/lib/data";
 
@@ -39,11 +40,14 @@ export function Hero() {
       <div className="absolute inset-0 bg-gradient-to-br from-[#020D18] via-[#062133] to-[#0A3150]" />
 
       {/* Hero image with premium overlay */}
-      {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img
+      <Image
         src="/hero-bg.png"
         alt=""
         aria-hidden="true"
+        fill
+        priority
+        quality={75}
+        sizes="100vw"
         className="absolute inset-0 w-full h-full object-cover opacity-[0.15] mix-blend-luminosity"
       />
       <div className="absolute inset-0 bg-gradient-to-t from-[#020D18] via-transparent to-[#020D18]/60" />

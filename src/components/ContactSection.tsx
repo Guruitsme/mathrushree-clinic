@@ -116,6 +116,7 @@ export function ContactSection() {
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
               title="Mathrushree Speciality Clinic Location"
+              sandbox="allow-scripts allow-same-origin allow-popups"
             />
           </div>
         </div>
